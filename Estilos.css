@@ -1,12 +1,5 @@
-
 Body{
     background-color: #FADBD8;
-}
-header{
-    width: 100%;
-    height: 50px;
-    box-shadow: 1px 1px 5px #000;
-    position: fixed;
 }
 h2{
     text-align: left;
@@ -22,7 +15,7 @@ h3{
     font-size: 255%;
     padding-left: 30px;
 }
-
+/*
 .Uno li a{ 
     text-decoration: none;
     color:#17202A;
@@ -63,7 +56,7 @@ h3{
     list-style: none;
     height: 25px;
     overflow: hidden;
-    background: azure;
+    background: #ABEBC6;
     text-align:left;
 }
 .Uno > li:hover{
@@ -88,7 +81,7 @@ h3{
     text-align: center;
     text-decoration: none;
     color: brown;
-    background: azure;
+    background: #ABEBC6;
     font-size: 23px;
 }
 P {
